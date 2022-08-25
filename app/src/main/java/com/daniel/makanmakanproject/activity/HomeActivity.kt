@@ -1,9 +1,14 @@
-package com.daniel.makanmakanproject
+package com.daniel.makanmakanproject.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import com.daniel.makanmakanproject.R
 import com.daniel.makanmakanproject.databinding.ActivityHomeBinding
+import com.daniel.makanmakanproject.fragment.ExploreFragment
+import com.daniel.makanmakanproject.fragment.FavouritesFragment
+import com.daniel.makanmakanproject.fragment.HomeFragment
+import com.daniel.makanmakanproject.fragment.SettingFragment
 
 class HomeActivity : AppCompatActivity() {
     private lateinit var binding: ActivityHomeBinding

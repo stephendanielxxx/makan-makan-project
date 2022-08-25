@@ -13,5 +13,5 @@
     <color name="black_primary">#333333</color>
     <color name="black_2">#5F5D5D</color>
     <color name="green_primary">#17C132</color>
-
+    <color name="black_transparent">#CC5F5D5D</color>
 </resources>

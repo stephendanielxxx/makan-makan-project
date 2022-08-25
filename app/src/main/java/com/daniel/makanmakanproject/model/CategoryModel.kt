@@ -1,4 +1,4 @@
-package com.daniel.makanmakanproject
+package com.daniel.makanmakanproject.model
 
 data class CategoryModel(
     val categoryId: Int,

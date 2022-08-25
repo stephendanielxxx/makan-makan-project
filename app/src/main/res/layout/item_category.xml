@@ -9,7 +9,7 @@
         android:id="@+id/rlCategory"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:background="@color/orange_1"
+        android:background="@drawable/rounded_orange"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent">

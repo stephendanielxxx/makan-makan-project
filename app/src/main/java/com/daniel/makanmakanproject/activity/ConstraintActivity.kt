@@ -1,7 +1,8 @@
-package com.daniel.makanmakanproject
+package com.daniel.makanmakanproject.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.daniel.makanmakanproject.R
 
 class ConstraintActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

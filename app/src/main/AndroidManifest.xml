@@ -14,10 +14,10 @@
         android:theme="@style/Theme.MakanMakanProject"
         tools:targetApi="31">
         <activity
-            android:name=".HomeActivity"
+            android:name=".activity.HomeActivity"
             android:exported="false" />
         <activity
-            android:name=".SplashScreenActivity"
+            android:name=".activity.SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,13 +26,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ConstraintActivity"
+            android:name=".activity.ConstraintActivity"
             android:exported="false" />
         <activity
-            android:name=".RelativeActivity"
+            android:name=".activity.RelativeActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:exported="true"></activity>
     </application>
 

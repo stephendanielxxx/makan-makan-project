@@ -1,8 +1,9 @@
-package com.daniel.makanmakanproject
+package com.daniel.makanmakanproject.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.daniel.makanmakanproject.model.CategoryModel
 import com.daniel.makanmakanproject.databinding.ItemCategoryBinding
 
 class CategoryAdapter(private val categories: List<CategoryModel>): RecyclerView.Adapter<CategoryAdapter.ViewHolder>() {

@@ -1,9 +1,10 @@
-package com.daniel.makanmakanproject
+package com.daniel.makanmakanproject.activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import com.daniel.makanmakanproject.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
